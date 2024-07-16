@@ -1,7 +1,13 @@
 package Clase4;
 
-
 import java.util.Random;
+
+/**
+ * Programa que genera un array de 8 enteros aleatorios entre 1 y 10, lo ordena utilizando el
+ * algoritmo de ordenamiento de burbuja y lo muestra.
+ *
+ * @author LTintez
+ */
 
 public class Ejercicio2 {
 
